@@ -11,3 +11,11 @@
 .row > div {
   border: 1px solid red;
 }
+
+#bootstrap-overrides .active {
+  color: violet;
+}
+
+#bootstrap-overrides .navbar {
+  background-color: turquoise !important;
+}
